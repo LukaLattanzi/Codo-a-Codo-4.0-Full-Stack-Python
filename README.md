@@ -3,8 +3,8 @@
 ## ¡Bienvenido al proyecto Front-end de Codo a Codo 4.0 ! Pasos principales:
 #### Marca este proyecto con una estrella ⭐
 #### Sigue leyendo para enterarte de todo el contenido 📚
+
 ## Analizando el repositorio!
-### Este es el repositorio base de nuestro proyecto, acá tendrás:
 #### 🔹index.html: Documento HTML. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento.
 #### 🔹style.css: Documento de CSS con instrucciones de estilo.
 #### 🔹main.js: Documento para validar formulario usando Javascript, uso de la API y otros elementos.
@@ -28,4 +28,4 @@
      <img width="300" src="https://www.citybiz.co/wp-content/uploads/2021/05/Netlify.png">
 </p>
 
-#### 🔹Netlify 
+#### 🔹Netlify link:
