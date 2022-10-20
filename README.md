@@ -18,6 +18,8 @@
 
 ### API REST utilizada en el proyecto proyecto:
 
+<br>
+
 <p align="left" >
      <img width="300" src="https://developer.techspecs.io/assets/images/logo.svg">
 </p>
