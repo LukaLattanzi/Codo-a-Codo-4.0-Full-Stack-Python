@@ -5,7 +5,7 @@
 #### Marca este proyecto con una estrella ⭐
 #### Sigue leyendo para enterarte de todo el contenido 📚
 
-### Analisando el repositorio!
+### Analizando el repositorio!
 ---
 ### Este es el repositorio base de nuestro proyecto, acá tendrás:
 #### 🔹index.html: Documento HTML. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento.
