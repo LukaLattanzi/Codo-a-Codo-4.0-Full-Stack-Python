@@ -3,7 +3,7 @@
 ### ¡Bienvenido al proyecto Front-end de Codo a Codo 4.0 ! Pasos principales:
 ---
 #### Marca este proyecto con una estrella ⭐
-#### Sigue las instrucciones de contenido 📚
+#### Sigue leyendo para enterarte de todo el contenido 📚
 
 ### Analisando el repositorio!
 ---
