@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple | iPhone 14 Pro</title>
+    <link rel="shortcut icon" href="images/apple-icon.png" type="image/x-icon">
+
+    <!-- Roboto -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+    <!-- css link  -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Fontawsome link -->
+    <script src="https://kit.fontawesome.com/bd2ee17b49.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <!-- header section -->
+
+    <header>
+
+        <nav class="container">
+
+            <div class="logo">
+                <h2><i class="fa-brands fa-apple"></i> Apple</h2>
+            </div>
+
+            <ul class="links">
+                <li class="link"><a href="#home">Inicio</a></li>
+                <li class="link"><a href="#news">Novedades</a></li>
+                <li class="link"><a href="#video">Presentacion</a></li>
+                <li class="link"><a href="#product">Productos</a></li>
+                <li class="link"><a href="#contact">Contacto</a></li>
+            </ul>
+
+            <button type="button" class="toggle">
+                <span class="span1"></span>
+                <span class="span2"></span>
+                <span class="span3"></span>
+            </button>
+
+        </nav>
+
+    </header>
+
+    <!-- header section -->
+
+    <!-- home section -->
+
+    <section class="home section-basic-config section-padding-top" id="home">
+
+        <div class="home-text">
+            <h1>iPhone 14 Pro</h1>
+            <p>Frente de Ceramic Shield, más resistente que cualquier vidrio de smartphone. Resistencia al agua. Acero inoxidable de calidad quirúrgica. Disponible en 6.1 y 6.7 pulgadas<sup>2</sup> y cuatro colores que le dan un look muy Pro.</p>
+        </div>
+
+        <div class="home-image">
+            <img src="./images/home-img-1.jpg" alt="" id="img-click">
+        </div>
+
+        <div class="home-image-link">
+            <div onclick="imgClick('images/home-img-1.jpg')">Morado Oscuro</div>
+            <div onclick="imgClick('images/home-img-2.jpg')">Color Oro</div>
+            <div onclick="imgClick('images/home-img-3.jpg')">Color Plata</div>
+            <div onclick="imgClick('images/home-img-4.jpg')">Negro Espacial</div>
+        </div>
+
+    </section>
+
+    <!-- home section -->
+
+    <!-- news section -->
+
+    <section class="news section-basic-config section-padding-top" id="news">
+
+        <h2 class="h2-header">Descubre la nueva cara de iPhone</h2>
+
+        <div class="news-content">
+
+            <div class="news-image">
+                <img src="images/news-img-1.jpg" alt="" id="imghover">
+            </div>
+
+            <div class="news-text">
+
+                <div class="news-text-box" onmouseenter="imgHover('images/news-img-1.jpg')">
+                    <h3><i class="fas fa-user"></i>Dynamic Island</h3>
+                    <p>Una innovación exclusiva de Apple. Es una mezcla mágica de hardware y software que te muestra la canción que suena, resultados deportivos, las llamadas de FaceTime y mucho más, sin interrumpir lo que estás haciendo.</p>
+                </div>
+
+                <div class="news-text-box" onmouseenter="imgHover('images/news-img-2.jpg')">
+                    <h3><i class="fa-solid fa-user-shield"></i>Alerta De Seguridad</h3>
+                    <p>El iPhone 14 Pro puede detectar si sufres un accidente de auto grave, llamar a los servicios de emergencia y notificar a tus contactos de emergencia.</p>
+                </div>
+
+                <div class="news-text-box" onmouseenter="imgHover('images/news-img-3.jpg')">
+                    <h3><i class="fa-solid fa-microchip"></i>A16 Bionic</h3>
+                    <p>CPU de 6 núcleos más rápido para un rendimiento fluido y eficiente en las tareas más exigentes. Sumado al el Neural Engine que realiza casi 17 billones de operaciones por segundo y analiza cada foto pixel por pixel.</p>
+                </div>
+
+                <div class="news-text-box" onmouseenter="imgHover('images/news-img-4.jpg')">
+                    <h3><i class="fa-solid fa-camera"></i>Camaras Pro</h3>
+                    <p>El iPhone 14 Pro lleva la resolución de 48 MP al siguiente nivel incrementando en 4 veces la resolución en ProRaw, para que puedas recortar fotos y conservar un asombroso nivel de detalle.</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- news section -->
+
+    <!-- video section starts  -->
+
+    <section class="video section-basic-config section-padding-top" id="video">
+
+        <h2 class="h2-header">Presentacion de los nuevos productos</h2>
+
+        <div class="video-content">
+
+            <div class="video-content-first">
+                <iframe id="iframe" width="560" height="315" src="https://www.youtube.com/embed/Uhfzyfe7nT0" title="YouTube video player" frameborder="0" ; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen></iframe>
+            </div>
+
+            <div class="video-content-second">
+
+                <div class="vid-cont">
+                    <img src="images/video-img-1.jpg" alt="" onclick="videoUrl('https://www.youtube.com/embed/Uhfzyfe7nT0')">
+                    <p>iPhone 14 Pro</p>
+                </div>
+
+                <div class="vid-cont">
+                    <img src="images/video-img-2.jpg" alt="" onclick="videoUrl('https://www.youtube.com/embed/TBTgQbjRsqg')">
+                    <p>AirPods Pro</p>
+                </div>
+
+                <div class="vid-cont">
+                    <img src="images/video-img-3.jpg" alt="" onclick="videoUrl('https://www.youtube.com/embed/UfawgQJICU8')">
+                    <p>Watch Series 8</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- about section ends -->
+
+    <!-- product section starts  -->
+
+    <section class="product section-basic-config section-padding-top" id="product">
+
+        <h2 class="h2-header">Pasarse al iPhone ¿Cual elegir?</h2>
+
+        <div class="product-content">
+
+            <div class="product-box">
+
+                <div class="product-box-image">
+                    <img src="images/product-img-1.png" alt="">
+                </div>
+
+                <div class="product-box-content">
+                    <h3>iPhone 14 Pro</h3>
+                    <span>Desde $999</span>
+                    <button type="button" class="btn">comprar</button>
+                    <button type="button" id="open1" class="btn" onclick="iphone('631e550e713e1e075a78f8bc','iPhone 14 Pro')">propiedades</button>
+                </div>
+
+            </div>
+
+            <div class="product-box">
+
+                <div class="product-box-image">
+                    <img src="images/product-img-2.png" alt="">
+                </div>
+
+                <div class="product-box-content">
+                    <h3>iPhone 14</h3>
+                    <span>Desde $799</span>
+                    <button type="button" class="btn">comprar</button>
+                    <button type="button" id="open2" class="btn" onclick="iphone('631e550f713e1e075a78f8bd','iPhone 14')">propiedades</button>
+                </div>
+
+            </div>
+
+            <div class="product-box">
+
+                <div class="product-box-image">
+                    <img src="images/product-img-3.png" alt="">
+                </div>
+
+                <div class="product-box-content">
+                    <h3>iPhone 13</h3>
+                    <span>Desde $599</span>
+                    <button type="button" class="btn">comprar</button>
+                    <button type="button" id="open3" class="btn" onclick="iphone('6186b047987cda5f88311985','iPhone 13')">propiedades</button>
+                </div>
+
+            </div>
+
+            <div class="product-box">
+
+                <div class="product-box-image">
+                    <img src="images/product-img-4.png" alt="">
+                </div>
+
+                <div class="product-box-content">
+                    <h3>iPhone SE</h3>
+                    <span>Desde $429</span>
+                    <button type="button" class="btn">comprar</button>
+                    <button type="button" id="open4" class="btn" onclick="iphone('60d438fa8f19b751ae353e7f','iPhone SE')">propiedades</button>
+                </div>
+
+            </div>
+
+            <div id="modal_container" class="modal-container">
+
+                <div class="modal">
+                    <h4 id="modal-h4"></h4>
+                    <table>
+                        <tr>
+                            <td>Dimensiones</td>
+                            <td id="dimensiones"></td>
+                        </tr>
+                        <tr>
+                            <td>Pantalla</td>
+                            <td id="pantalla"></td>
+                        </tr>
+                        <tr>
+                            <td>Chip</td>
+                            <td id="chip"></td>
+                        </tr>
+                        <tr>
+                            <td>Cámara</td>
+                            <td id="camara"></td>
+                        </tr>
+                        <tr>
+                            <td>Bateria</td>
+                            <td id="bateria"></td>
+                        </tr>
+                        <tr>
+                            <td>Sistema operativo</td>
+                            <td id="os"></td>
+                        </tr>
+                    </table>
+                    <button type="button" id="close" class="modal-btn">Cerrar</button>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- product section ends -->
+
+    <!-- contact section -->
+
+    <section class="contact section-basic-config section-padding-top" id="contact">
+
+        <div class="contact-content">
+            <h2 class="h2-header">¿Necesitas ayuda? Contacta con nosotros</h2>
+            <p>Consulta en un solo lugar toda la información actualizada acerca de tus productos Apple, por ejemplo, reparaciones, casos de soporte técnico y mucho más.</p>
+        </div>
+
+        <form action="" method="POST" id="form">
+            <input type="text" name="" id="name" placeholder="Nombre">
+            <input type="email" name="" id="email" placeholder="Email">
+            <textarea name="" id="textarea" placeholder="Mensaje"></textarea>
+            <button type="reset">Borrar</button>
+            <button type="submit">Enviar</button>
+            <p class="warnings" id="warnings"></p>
+        </form>
+
+    </section>
+
+    <!-- contact section -->
+
+    <!-- footer section -->
+
+    <div class="footer">
+        <p class="footer-credits">Desarrollado por <a class="link" rel="noopener" href="https://www.linkedin.com/in/luka-lattanzi-18ab65238/" target="_blank">Luka Lattanzi</a>, <a class="link" rel="noopener" href="https://www.linkedin.com/in/eugenia-aranda-564436252/" target="_blank">Eugenia Cecilia Aranda</a>, <a class="link" rel="noopener" href="https://www.linkedin.com/in/antonio-pedro-d-ba75513b/" target="_blank">Antonio Pedro Da Cunha</a></p>
+    </div>
+
+    <!-- footer section -->
+
+    <script src="main.js"></script>
+
+</body>
+
+</html>
