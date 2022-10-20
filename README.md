@@ -1,6 +1,6 @@
 # iPhone-14-Pro-website-CAC-
 
-### ¡Bienvenido al proyecto Front-end de Codo a Codo 4.0 ! Pasos principales:
+## ¡Bienvenido al proyecto Front-end de Codo a Codo 4.0 ! Pasos principales:
 ---
 #### Marca este proyecto con una estrella ⭐
 #### Sigue leyendo para enterarte de todo el contenido 📚
