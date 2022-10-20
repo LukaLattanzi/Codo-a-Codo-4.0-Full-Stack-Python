@@ -16,7 +16,7 @@
      <img width="600" heigth="600" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
 </p>
 
-### API REST utilizada en el proyecto proyecto:
+### API REST utilizada en el proyecto:
 
 <p align="left" >
      <img width="300" src="https://developer.techspecs.io/assets/images/logo.svg">
