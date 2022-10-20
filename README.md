@@ -14,10 +14,18 @@
      <img width="600" heigth="600" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
 </p>
 
-### API REST utilizada en el proyecto:
+## API REST utilizada en el proyecto:
 
 <p align="left" >
      <img width="300" src="https://developer.techspecs.io/assets/images/logo.svg">
 </p>
 
 #### 🔹TechSpecs API proporciona las especificaciones técnicas de productos electrónicos, incluido portátiles, teléfonos, tabletas y relojes inteligentes. Version gratis solo permite 100 llamadas!
+
+## Servidor On-line para poder navegar por la web:
+
+<p align="left" >
+     <img width="300" src="https://www.citybiz.co/wp-content/uploads/2021/05/Netlify.png">
+</p>
+
+#### 🔹Netlify 
