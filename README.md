@@ -11,6 +11,7 @@
 #### 🔹index.html: Documento HTML. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura.
 #### 🔹style.css: Documento de CSS con instrucciones de estilo.
 #### 🔹main.js: Documento para validar formulario usando Javascript, uso de la API y otros elementos.
+#### 🔹images: Carpeta con todas las imagenes utilizadas a lo largo del proyecto.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">
