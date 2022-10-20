@@ -1,12 +1,9 @@
 # iPhone-14-Pro-website-CAC-
 
 ## ¡Bienvenido al proyecto Front-end de Codo a Codo 4.0 ! Pasos principales:
----
 #### Marca este proyecto con una estrella ⭐
 #### Sigue leyendo para enterarte de todo el contenido 📚
-
-### Analizando el repositorio!
----
+## Analizando el repositorio!
 ### Este es el repositorio base de nuestro proyecto, acá tendrás:
 #### 🔹index.html: Documento HTML. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento.
 #### 🔹style.css: Documento de CSS con instrucciones de estilo.
