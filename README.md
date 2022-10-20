@@ -8,7 +8,7 @@
 ### Analisando el repositorio!
 ---
 ### Este es el repositorio base de nuestro proyecto, acá tendrás:
-#### 🔹index.html: Documento HTML. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura.
+#### 🔹index.html: Documento HTML. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento.
 #### 🔹style.css: Documento de CSS con instrucciones de estilo.
 #### 🔹main.js: Documento para validar formulario usando Javascript, uso de la API y otros elementos.
 #### 🔹images: Carpeta con todas las imagenes utilizadas a lo largo del proyecto.
