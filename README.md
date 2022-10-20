@@ -22,4 +22,4 @@
      <img width="300" src="https://developer.techspecs.io/assets/images/logo.svg">
 </p>
 
-#### 🔹TechSpecs API proporciona las especificaciones técnicas de productos electrónicos, incluido portátiles, teléfonos, tabletas y relojes inteligentes.
+#### 🔹TechSpecs API proporciona las especificaciones técnicas de productos electrónicos, incluido portátiles, teléfonos, tabletas y relojes inteligentes. Version gratis solo permite 100 llamadas!
