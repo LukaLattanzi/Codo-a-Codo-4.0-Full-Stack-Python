@@ -28,4 +28,4 @@
      <img width="300" src="https://www.citybiz.co/wp-content/uploads/2021/05/Netlify.png">
 </p>
 
-#### 🔹Netlify link:
+#### 🔹Netlify link: https://prismatic-custard-17c1b2.netlify.app
